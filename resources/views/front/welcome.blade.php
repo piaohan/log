@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{asset('css/baseStyle.css')}}">
 </head>
 <body>
-<div id="chart-container" style="height: 800px"></div>
+<div id="chart-container" style="height: 500px"></div>
 </body>
 <script type="text/javascript" src="{{asset('js/jquery.min.js')}}"></script>
 <script type="text/javascript" src="{{asset('js/html2canvas.min.js')}}"></script>
